@@ -1,7 +1,8 @@
 # Demo Project README
 
 This is a simple readme file.
+Yet very important
 
-##Heading 2
+##Repository Purpose
 
 Just a simple going on
